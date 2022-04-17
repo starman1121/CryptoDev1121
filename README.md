@@ -170,12 +170,12 @@ Network:
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=freedevsoft&theme=react-dark&bg_color=20232a&hide_border=true" alt="freedevsoft" /></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=CryptoDev1121&row=1&margin-h=15&no-bg=true" alt="CryptoDev1121" /></a>
   </div>
   <br>
 </p>
 <hr>
 
 <h4 align="center">
-  <a href="https://github.com/freedevsoft?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
+  <a href="https://github.com/CryptoDev1121?tab=repositories" title="Show Repositories">🔎 Show Repositories 🔍</a>
 </h4>
