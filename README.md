@@ -1,10 +1,5 @@
-### Hello, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-  [<img align="left" alt="Techrate | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][gmail]
-  [<img align="left" alt="Techrate | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
-
-  [gmail]: mailto:nikolajeremic0777@gmail.com
-  [telegram]: https://t.me/blockchaindev1121
-  <br />
+### Hello, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
+<br />
   
   Hi, As a senior full-stack and Blockchain developer with the last 5 years of expertise in Blockchain architecture, Cryptocurrency Wallet Development, Smart Contract, Crypto Coins Exchange Development.
   Looking for long-term opportunities that appreciate high-quality standards with quality and maintenance code.
