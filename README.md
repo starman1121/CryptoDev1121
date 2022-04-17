@@ -25,11 +25,6 @@ Network:
     Blockchain(BitCoin | Ethereum | Solana | Binance Smart Chain(BSC) | Polygon | Fantom | Avalanche | TRON)
 
 
- <div>
-  <img align="right" alt="GIF" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" width="500" height="320" />
-</div>
-
-
 ### Connect with me:
 
 - 💬 Telegram : [@blockchaindev](https://t.me/blockchaindev)
