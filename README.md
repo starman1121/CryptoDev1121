@@ -22,7 +22,7 @@ Network:
 
 ### Connect with me:
 
-- 💬 Telegram : [@blockchaindev](https://t.me/blockchaindev)
+- 💬 Telegram : [@blockchaindev1121](https://t.me/blockchaindev1121)
 - 📧 Email : nikolajeremic0777@gmail.com
 
 ### Languages and Tools:
