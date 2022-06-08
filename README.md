@@ -1,4 +1,4 @@
-### Hello, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="8px">  
+### Hello, there!
 <br />
   
   Hi, As a senior full-stack and Blockchain developer with the last 5 years of expertise in Blockchain architecture, Cryptocurrency Wallet Development, Smart Contract, Crypto Coins Exchange Development.
