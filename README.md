@@ -24,7 +24,7 @@ My major skills are blockchain-based web and contract development. I have rich e
     <br>
     o Audit Smart Contract
 
-<b>Network</b>:
+<b>NETWORK</b>:
     <br>
     Blockchain(BitCoin | Ethereum | Solana | Binance Smart Chain(BSC) | Polygon | Fantom | Avalanche | TRON)
 
